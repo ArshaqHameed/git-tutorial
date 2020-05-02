@@ -4,4 +4,4 @@ avaa
 aa
 ala
 aalsssaa
-welcome to git world
+welcome to GIT.
