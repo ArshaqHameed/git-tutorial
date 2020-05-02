@@ -9,3 +9,5 @@ welcome to GIT.
 
 welcome to git magical world.
 
+before counting we need a base.
+
